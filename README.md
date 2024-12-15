@@ -37,8 +37,8 @@
 ![image](https://github.com/user-attachments/assets/d1eb7334-7348-4821-984e-2c3daa13ce4f)
 
 
-### Name:D.BALA SUBRAMANYAM
-### Register Number:24002856
+### Name:Punniyakotti.M
+### Register Number:24006503
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
