@@ -37,8 +37,8 @@
 ![Screenshot 2024-12-12 102857](https://github.com/user-attachments/assets/ac43740e-025d-40fd-892f-301a780972de)
 
 
-### Name: Bharath K 
-### Register Number: 24900579
+### Name: Punniyakotti.M 
+### Register Number: 24006503
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
